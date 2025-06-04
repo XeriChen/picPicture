@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="115.686707" height="115.686707">
+	<defs />
+	<path d="M -98.6867 98.6867 L -98.6867 -39.4747, -39.4747 -98.6867, -39.4747 39.4747 Z" stroke="none" fill="#045275" fill-opacity="0" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M -98.6867 98.6867 L -39.4747 39.4747, 98.6867 39.4747, 39.4747 98.6867 Z" stroke="none" fill="#045275" fill-opacity="0" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<rect x="-39.4746819" y="-98.6867065" width="138.161362" height="138.161377" stroke="none" fill="#045275" fill-opacity="0" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M 98.6867 -98.6867 L 98.6867 39.4747, 39.4747 98.6867, 39.4747 -39.4747 Z" stroke="none" fill="#045275" fill-opacity="0" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M -98.6867 -39.4747 L 39.4747 -39.4747, 98.6867 -98.6867, -39.4747 -98.6867 Z" stroke="none" fill="#045275" fill-opacity="0" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M -98.6867 98.6867 L -98.6867 -39.4747, -39.4747 -98.6867, 98.6867 -98.6867, 98.6867 39.4747, 39.4747 98.6867 Z" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M -98.6867 -39.4747 L 39.4747 -39.4747" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M 98.6867 -98.6867 L 39.4747 -39.4747" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M 39.4747 98.6867 L 39.4747 -39.4747" fill="none" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M -98.6867 98.6867 L -39.4747 39.4747" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.505, 2.495" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M -39.4747 -98.6867 L -39.4747 39.4747" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.505, 2.495" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+	<path d="M 98.6867 39.4747 L -39.4747 39.4747" fill="none" stroke="#000000" stroke-width="1" stroke-linecap="round" stroke-linejoin="round" stroke-dasharray="1.505, 2.495" transform="matrix(0.5 0 -0 0.5 57.8434 57.8434)" />
+</svg>
